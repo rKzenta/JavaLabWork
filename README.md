@@ -30,7 +30,7 @@
 - Apache POI — для работы с форматом XLSX.
 
 ## Инструкция по использованию
-1. Скачайте последний релиз приложения с [официальной страницы](https://github.com/rKzenta/JavaLabWork/releases/tag/latest).
+1. Скачайте последний релиз приложения с [официальной страницы](https://github.com/rKzenta/JavaLabWork/releases/).
 
 2. Запустите JAR файл с помощью следующей команды:
 
